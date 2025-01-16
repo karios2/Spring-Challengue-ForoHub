@@ -38,11 +38,11 @@ Base de datos: MySQL 📈
 
 Este proyecto está configurado para usar una base de datos H2 en memoria por defecto. Puedes cambiar la configuración de la base de datos en el archivo application.properties.
 
-Swagger 📊
+
 Swagger está configurado para generar documentación de la API automáticamente. Puedes acceder a la interfaz de Swagger en la siguiente URL cuando el servidor esté en funcionamiento:
 
 http://localhost:8080/swagger-ui/index.html
-swagger.png
+
 
 Ejecución Para ejecutar la aplicación, utiliza el siguiente comando en la raíz del proyecto:
 
@@ -129,8 +129,3 @@ Body:
   "empty": false
 }
 
-Contribuciones ⌨️
-Las contribuciones son bienvenidas. Por favor, abre un issue para discutir el cambio que deseas realizar. Siéntete libre de hacer un fork del proyecto y enviar un pull request.
-
-Licencia 🚀
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
